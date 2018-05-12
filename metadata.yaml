@@ -1,0 +1,43 @@
+_repo: Royal-Palaces-and-Parks-of-France_25842
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: McManus, Blanche
+    aliases:
+    - Mansfield, Blanche McManus
+    - MacManus, Blanche
+    birthdate: 1869
+    deathdate: 1935
+    gutenberg_agent_id: '31610'
+    url: http://www.gutenberg.org/2009/agents/31610
+covers:
+- cover_type: archival
+  image_path: 25842-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mansfield, M. F. (Milburg Francisco)
+    aliases:
+    - Mansfield, Milburg Francisco
+    - Mansfield, M.F
+    - Miltoun, Francis
+    birthdate: 1871
+    gutenberg_agent_id: '31606'
+    url: http://www.gutenberg.org/2009/agents/31606
+description: ''
+gutenberg_issued: '2008-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25842'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parks -- France'
+- !lcsh 'Palaces -- France'
+- !lcc 'DC'
+- !lcsh 'Architecture -- France'
+- !lcsh 'Landscape architecture -- France'
+- !lcc 'NA'
+title: Royal Palaces and Parks of France
+url: http://www.gutenberg.org/ebooks/25842
